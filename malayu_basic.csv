@@ -1,0 +1,224 @@
+target_word,base_word,target_example,base_example
+Hai,Hello,Hai!,Hello!
+Selamat pagi,Good morning,Selamat pagi.,Good morning.
+Selamat tengah hari,Good afternoon,Selamat tengah hari.,Good afternoon.
+Selamat petang,Good evening,Selamat petang.,Good evening.
+Selamat malam,Good night,Selamat malam.,Good night.
+Selamat tinggal,Goodbye (to whom stay),Selamat tinggal.,Goodbye.
+Selamat jalan,Goodbye (to whom leaving),Selamat jalan.,Goodbye.
+Selamat datang,Welcome,Selamat datang.,Welcome.
+Apa khabar?,How are you?,Apa khabar?,How are you?
+Terima kasih,Thank you,Terima kasih.,Thank you.
+Sama-sama,You’re welcome,Sama-sama.,You’re welcome.
+Tolong,Please / Help,Tolong saya.,Please help me.
+Sila,Please (formal),Sila masuk.,Please come in.
+Maaf,Sorry,"Maaf, saya salah.","Sorry, I was wrong."
+Tumpang tanya,Excuse me,"Tumpang tanya, ini betul?","Excuse me, is this correct?"
+Ya,Yes,Ya.,Yes.
+Tidak,No,Tidak.,No.
+Saya,I / me,Saya lapar.,I am hungry.
+Awak,You,Awak okay?,Are you okay?
+Dia,He / She,Dia pelajar.,He is a student.
+Kita,We (incl.),Kita pergi.,We are going.
+Mereka,They,Mereka bekerja.,They are working.
+Apa,What,Apa ini?,What is this?
+Siapa,Who,Siapa dia?,Who is he?
+Di mana,Where,Di mana awak?,Where are you?
+Bila,When,Bila kita pergi?,When are we going?
+Kenapa,Why,Kenapa lambat?,Why are you late?
+Berapa,How much / how many,Berapa harga ini?,How much is this?
+Ada,Have / there is,Ada masalah.,There is a problem.
+Pergi,Go,Saya pergi sekarang.,I am going now.
+Datang,Come,Datang sini.,Come here.
+Mahu / Nak,Want,Saya nak air.,I want water.
+Perlu,Need,Saya perlu bantuan.,I need help.
+Makan,Eat,Saya makan nasi.,I eat rice.
+Minum,Drink,Saya minum air.,I drink water.
+Lihat,See,Lihat itu.,See that.
+Buat,Do / make,Saya buat kerja.,I do work.
+Hari ini,Today,Hari ini hujan.,It is raining today.
+Esok,Tomorrow,Esok cuti.,Tomorrow is a holiday.
+Semalam,Yesterday,Semalam sibuk.,Yesterday was busy.
+Sekarang,Now,Sekarang juga.,Right now.
+Nanti,Later,Jumpa nanti.,See you later.
+Di sini,Here,Saya di sini.,I am here.
+Di sana,There,Saya di sana.,I am there.
+Dekat,Near,Kedai itu dekat.,That shop is near.
+Jauh,Far,Rumahnya jauh.,His house is far.
+Tolong!,Help!,Tolong!,Help!
+Berapa harga ini?,How much is this?,Berapa harga ini?,How much is this?
+Di mana tandas?,Where is the toilet?,Di mana tandas?,Where is the toilet?
+Saya tidak faham.,I don’t understand,Saya tidak faham.,I don’t understand.
+Awak boleh cakap Inggeris?,Do you speak English?,Awak boleh cakap Inggeris?,Do you speak English?
+Baik,Good,Ini baik.,This is good.
+Buruk,Bad,Cuaca buruk.,The weather is bad.
+Besar,Big,Rumah itu besar.,That house is big.
+Kecil,Small,Bilik ini kecil.,This room is small.
+Panas,Hot,Hari ini panas.,Today is hot.
+Sejuk,Cold,Air ini sejuk.,This water is cold.
+Senang,Easy,Kerja ini senang.,This work is easy.
+Susah,Difficult,Soalan ini susah.,This question is difficult.
+Sangat,Very,Sangat sedap.,Very delicious.
+Sedikit,A little,Sedikit sahaja.,Just a little.
+Jom,Let’s go,Jom pergi.,Let’s go.
+Tunggu sekejap,Wait a moment,Tunggu sekejap.,Wait a moment.
+Tiada masalah,No problem,Tiada masalah.,No problem.
+Nama saya…,My name is…,Nama saya Ali.,My name is Ali.
+Sedang,In the process of,Saya sedang belajar.,I am studying.
+Sudah,Already,Saya sudah makan.,I have eaten already.
+Belum,Not yet,Saya belum siap.,I am not ready yet.
+Akan,Will (future),Saya akan pergi.,I will go.
+Boleh,Can / may,Saya boleh cuba.,I can try.
+Tidak boleh,Cannot,Saya tidak boleh masuk.,I cannot enter.
+Mesti,Must,Awak mesti datang.,You must come.
+Cuba,Try,Cuba lagi.,Try again.
+Fikir,Think,Saya fikir dulu.,I will think first.
+Kerja,Work,Saya kerja di sini.,I work here.
+Belajar,Study / learn,Saya belajar Bahasa Melayu.,I study Malay.
+Tinggal,Live / stay,Saya tinggal dekat sini.,I live nearby.
+Guna,Use,Guna ini.,Use this.
+Beli,Buy,Saya beli makanan.,I buy food.
+Jual,Sell,Dia jual kereta.,He sells cars.
+Jalan,Walk / road,Saya jalan perlahan.,I walk slowly.
+Naik,Go up / take (transport),Saya naik bas.,I take the bus.
+Turun,Go down,Turun sini.,Get down here.
+Masuk,Enter,Masuk sekarang.,Enter now.
+Keluar,Exit,Keluar cepat.,Exit quickly.
+Jumpa,Meet,Jumpa esok.,Meet tomorrow.
+Tanya,Ask,Saya tanya dia.,I ask him.
+Jawab,Answer,Jawab soalan ini.,Answer this question.
+Betul,Correct,Ini betul.,This is correct.
+Salah,Wrong,Jawapan salah.,The answer is wrong.
+Sama,Same,Kita sama.,We are the same.
+Lain,Different,Ini lain.,This is different.
+Cepat,Fast,Dia cepat.,He is fast.
+Perlahan,Slow,Tolong perlahan.,Please slow down.
+Sibuk,Busy,Saya sibuk hari ini.,I am busy today.
+Kosong,Empty / free,Tempat ini kosong.,This place is empty.
+Senyap,Quiet,Tolong senyap.,Please be quiet.
+Penat,Tired,Saya penat.,I am tired.
+Lapar,Hungry,Saya lapar.,I am hungry.
+Dahaga,Thirsty,Saya dahaga.,I am thirsty.
+Gembira,Happy,Saya gembira.,I am happy.
+Sedih,Sad,Dia sedih.,He is sad.
+Marah,Angry,Jangan marah.,Do not be angry.
+Takut,Afraid,Saya takut.,I am afraid.
+Suka,Like,Saya suka kopi.,I like coffee.
+Tidak suka,Dislike,Saya tidak suka hujan.,I dislike rain.
+Selalu,Always,Saya selalu datang.,I always come.
+Kadang-kadang,Sometimes,Saya kadang-kadang masak.,I sometimes cook.
+Jarang,Rarely,Saya jarang keluar.,I rarely go out.
+Belok kiri,Turn left,Belok kiri di sana.,Turn left there.
+Belok kanan,Turn right,Belok kanan sekarang.,Turn right now.
+Terus,Straight,Jalan terus.,Go straight.
+Dekat dengan,Near to,Kedai dekat dengan rumah.,The shop is near the house.
+Jauh dari,Far from,Sekolah jauh dari sini.,The school is far from here.
+Pukul berapa?,What time is it?,Pukul berapa?,What time is it?
+Hari,Day,Hari ini sibuk.,Today is busy.
+Minggu,Week,Minggu depan cuti.,Next week is a holiday.
+Bulan,Month,Bulan ini panas.,This month is hot.
+Tahun,Year,Tahun ini baik.,This year is good.
+Apa ini?,What is this?,Apa ini?,What is this?
+Siapa itu?,Who is that?,Siapa itu?,Who is that?
+Saya rasa…,I think / feel…,Saya rasa lapar.,I feel hungry.
+Boleh saya…?,May I…?,Boleh saya masuk?,May I enter?
+Tak apa,It’s okay,Tak apa.,It’s okay.
+Betul ke?,Really? / Is it true?,Betul ke?,Is it true?
+Macam mana?,How? / What about?,Macam mana buat?,How do you do it?
+Tak pasti,Not sure,Saya tak pasti.,I am not sure.
+Pernah,Ever,Saya pernah pergi sana.,I have been there.
+Selalu,Often,Dia selalu lewat.,He is often late.
+Biasanya,Usually,Biasanya saya bangun awal.,I usually wake up early.
+Hampir,Almost / near,Hampir siap.,Almost finished.
+Masih,Still,Saya masih tunggu.,I am still waiting.
+Terlalu,Too (excessively),Terlalu panas hari ini.,It is too hot today.
+Lebih,More,Saya mahu lebih masa.,I want more time.
+Kurang,Less,Air ini kurang manis.,This drink is less sweet.
+Paling,Most,Ini paling murah.,This is the cheapest.
+Sama dengan,Same as,Ini sama dengan itu.,This is the same as that.
+Berbeza,Different,Mereka berbeza.,They are different.
+Nampak,Look / seem,Awak nampak penat.,You look tired.
+Rasa,Feel / taste,Saya rasa sedih.,I feel sad.
+Dengar,Hear,Saya dengar bunyi.,I hear a sound.
+Cakap,Speak,Dia cakap perlahan.,He speaks softly.
+Bincang,Discuss,Kita bincang nanti.,We will discuss later.
+Pilih,Choose,Pilih satu.,Choose one.
+Cuba lagi,Try again,Cuba lagi esok.,Try again tomorrow.
+Ingat,Remember,Ingat janji itu.,Remember that promise.
+Lupa,Forget,Jangan lupa.,Do not forget.
+Percaya,Believe,Saya percaya awak.,I believe you.
+Setuju,Agree,Saya setuju.,I agree.
+Tidak setuju,Disagree,Saya tidak setuju.,I disagree.
+Harap,Hope,Saya harap berjaya.,I hope it works.
+Perlu ke?,Is it necessary?,Perlu ke?,Is it necessary?
+Kenapa tidak?,Why not?,Kenapa tidak?,Why not?
+Betul tak?,Right or not?,Betul tak?,Is that right?
+Sebenarnya,Actually,"Sebenarnya, saya sibuk.","Actually, I am busy."
+Mungkin,Maybe,Mungkin esok.,Maybe tomorrow.
+Sudah tentu,Of course,Sudah tentu.,Of course.
+Pada pendapat saya,In my opinion,"Pada pendapat saya, ini baik.","In my opinion, this is good."
+Bagi saya,For me,"Bagi saya, cukup.","For me, it is enough."
+Ikut,Follow,Ikut saya.,Follow me.
+Cuba faham,Try to understand,Cuba faham dulu.,Try to understand first.
+Masalah,Problem,Ada masalah.,There is a problem.
+Penyelesaian,Solution,Ini penyelesaian.,This is the solution.
+Keputusan,Decision,Keputusan sudah dibuat.,The decision is made.
+Pilihan,Choice,Ini pilihan saya.,This is my choice.
+Cara,Way / method,Cara ini senang.,This way is easy.
+Tempat,Place,Tempat ini bagus.,This place is good.
+Masa,Time,Kita ada masa.,We have time.
+Peluang,Opportunity,Peluang baik.,A good opportunity.
+Peluang,Opportunity,Ini peluang baik.,This is a good opportunity.
+Kawan,Friend,Dia kawan saya.,He is my friend.
+Orang,Person / people,Ramai orang datang.,Many people came.
+Semua,All,Semua sudah siap.,Everything is ready.
+Setiap,Every,Setiap hari saya kerja.,I work every day.
+Beberapa,Several,Beberapa orang hadir.,Several people attended.
+Banyak,Many / a lot,Banyak kerja hari ini.,There is a lot of work today.
+Sedikit sahaja,Only a little,Sedikit sahaja gula.,Only a little sugar.
+Boleh jadi,Could be,Boleh jadi betul.,It could be correct.
+Tak kisah,Don’t mind,Saya tak kisah.,I don’t mind.
+Tak apa-apa,Nothing / it’s fine,Tak apa-apa.,It’s fine.
+Terpulang,Up to you,Terpulang pada awak.,It’s up to you.
+Jaga diri,Take care,Jaga diri.,Take care.
+Jumpa lagi,See you again,Jumpa lagi.,See you again.
+Lama tak jumpa,Long time no see,Lama tak jumpa.,Long time no see.
+Saya setuju dengan awak,I agree with you,Saya setuju dengan awak.,I agree with you.
+Saya tak pasti tentang itu,I’m not sure about that,Saya tak pasti tentang itu.,I’m not sure about that.
+Tak apa,It’s okay / never mind,Tak apa.,It’s okay.
+Boleh,Can / okay,Boleh.,Okay.
+Tak boleh,Cannot,Tak boleh masuk.,Cannot enter.
+Boleh lah,"Okay, can",Boleh lah.,"Okay, that works."
+Tak tahu,Don’t know,Saya tak tahu.,I don’t know.
+Tak pasti,Not sure,Saya tak pasti.,I’m not sure.
+Mungkin,Maybe,Mungkin nanti.,Maybe later.
+Betul,Correct / right,Itu betul.,That is correct.
+Salah,Wrong,Itu salah.,That is wrong.
+Betul ke?,Really? / Is that true?,Betul ke?,Is that true?
+Macam ni,Like this,Buat macam ni.,Do it like this.
+Macam tu,Like that,Jangan macam tu.,Don’t do it like that.
+Macam mana?,How? / What about?,Macam mana sekarang?,What about now?
+Apa maksudnya?,What does it mean?,Apa maksudnya?,What does it mean?
+Perlahan sikit,Slower please,Perlahan sikit.,"Slower, please."
+Cepat sikit,A bit faster,Cepat sikit.,"A bit faster, please."
+Sekejap,A moment,Sekejap ya.,Just a moment.
+Tunggu,Wait,Tunggu saya.,Wait for me.
+Nanti dulu,Wait first,Nanti dulu.,Wait first.
+Jom,Let’s go,Jom pergi.,Let’s go.
+Tak kisah,I don’t mind,Tak kisah.,I don’t mind.
+Ikut awak,Up to you,Ikut awak.,Up to you.
+Boleh juga,That works too,Boleh juga.,That works too.
+Tak masalah,No problem,Tak masalah.,No problem.
+Terima kasih banyak,Thank you very much,Terima kasih banyak.,Thank you very much.
+Sama-sama,You’re welcome,Sama-sama.,You’re welcome.
+Maaf ya,Sorry (casual),Maaf ya.,Sorry.
+Tumpang tanya,Excuse me (asking),Tumpang tanya.,Excuse me.
+Penat lah,I’m tired,Penat lah.,I’m tired.
+Lapar lah,I’m hungry,Lapar lah.,I’m hungry.
+Dah siap,Finished already,Dah siap.,Already finished.
+Belum lagi,Not yet,Belum lagi.,Not yet.
+Tak faham,Don’t understand,Tak faham.,I don’t understand.
+Faham,Understand,Faham.,I understand.
+Okey je,It’s fine,Okey je.,It’s fine.
+Jumpa nanti,See you later,Jumpa nanti.,See you later.
+Jumpa lagi,See you again,Jumpa lagi.,See you again.

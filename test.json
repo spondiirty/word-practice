@@ -1,0 +1,16 @@
+{
+  "profile": "test",
+  "word_book": "/Users/junhong/junhong/malayu-practice/malayu_basic.csv",
+  "batch_size": 5,
+  "comparison_strategy": "basic",
+  "current_index": 0,
+  "intervals": [
+    0,
+    1,
+    2,
+    3,
+    2,
+    3
+  ],
+  "voice_speed": 200
+}
