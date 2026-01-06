@@ -149,6 +149,8 @@ class Engine:
 	def do_one_word(self, item):
 		clear_screen()
 		self.print(f'[cyan]{item.base_word}[/]')
+		if self.settings.data.get('show_target_word_hint', False):
+			self.print(f'[dim]Hint: {self.get_hint(item.target_word)}[/]')
 		ans = safe_input('Answer: ')
 		correct = self.compare_answer(ans, item.target_word)
 
@@ -294,3 +296,8 @@ class Engine:
 				break
 
 			yield data[0]
+
+	@staticmethod
+	def get_hint(target_word):
+		res = re.sub(r'\S', '*', target_word)
+		return target_word[0] + res[1:]
