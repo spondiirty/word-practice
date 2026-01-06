@@ -108,7 +108,7 @@ class Settings:
 					'batch_size': 5,
 					'comparison_strategy': 'basic',
 					'current_index': 0,
-					'intervals': [0, 1, 2, 3, 2, 3],
+					'intervals': [0, 1, 2, 3, 2, 1, 4],
 					'voice_speed': 200
 				}, f, indent=2)
 
@@ -160,7 +160,11 @@ class Engine:
 			self.print(f"The correct answer is [green]{item.target_word}[/]")
 
 		self.print(f"\nexample: \n - [yellow]{item.target_example}[/]")
-		speak_text(item.target_example, speed=self.settings.data.get('voice_speed', 200))
+		speak_text(
+			item.target_example,
+			voice=self.settings.data.get('voice', 'Amira'),
+			speed=self.settings.data.get('voice_speed', 200)
+		)
 		self.print(f" - [cyan]{item.base_example}[/]")
 		self.print("\n[blue]press \[enter] to continue...[/]")
 		safe_input()
@@ -209,14 +213,23 @@ class Engine:
 
 	def mark_batch_complete(self, batch):
 		with DB(self.profile) as db:
-			db.execute(
-				f"""
-				UPDATE batches 
-				SET round = round + 1, last_practiced = DATE('now'), due_date = DATE('now', '+{ self.settings.data.get('intervals')[batch['round']]} days') 
+			if len(self.settings.data.get('intervals')) == batch['round']:
+				db.execute(
+					f"""
+				DELETE FROM batches  
 				WHERE id = ?
 				""",
-				(batch['id'],)
-			)
+					(batch['id'],)
+				)
+			else:
+				db.execute(
+					f"""
+					UPDATE batches 
+					SET round = round + 1, last_practiced = DATE('now'), due_date = DATE('now', '+{ self.settings.data.get('intervals')[batch['round']]} days') 
+					WHERE id = ?
+					""",
+					(batch['id'],)
+				)
 
 	def fetch_batch_items(self, batch):
 		with DB(self.profile) as db:
