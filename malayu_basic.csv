@@ -167,7 +167,6 @@ Pilihan,Choice,Ini pilihan saya.,This is my choice.
 Cara,Way / method,Cara ini senang.,This way is easy.
 Tempat,Place,Tempat ini bagus.,This place is good.
 Masa,Time,Kita ada masa.,We have time.
-Peluang,Opportunity,Peluang baik.,A good opportunity.
 Peluang,Opportunity,Ini peluang baik.,This is a good opportunity.
 Kawan,Friend,Dia kawan saya.,He is my friend.
 Orang,Person / people,Ramai orang datang.,Many people came.
@@ -196,8 +195,145 @@ Betul,Correct / right,Itu betul.,That is correct.
 Salah,Wrong,Itu salah.,That is wrong.
 Betul ke?,Really? / Is that true?,Betul ke?,Is that true?
 Macam ni,Like this,Buat macam ni.,Do it like this.
-Macam tu,Like that,Jangan macam tu.,Don’t do it like that.
 Macam mana?,How? / What about?,Macam mana sekarang?,What about now?
+Apa khabar,How are you?,Apa khabar kamu?,How are you?
+Khabar baik,I am fine,Khabar baik sahaja.,I am fine.
+Kamu,You,Kamu duduk sini.,You sit here.
+Guru,Teacher,Guru di kelas.,Teacher in class.
+Ayah,Father,Ayah baca buku.,Father reads a book.
+Ibu,Mother,Ibu di rumah.,Mother is at home.
+Abang,Older brother,Abang main bola.,Older brother plays ball.
+Kakak,Older sister,Kakak tulis nama.,Older sister writes name.
+Adik,Younger sibling,Adik minum air.,Younger sibling drinks water.
+Satu,One,Satu buku biru.,One blue book.
+Dua,Two,Dua beg hitam.,Two black bags.
+Tiga,Three,Tiga pensel baru.,Three new pencils.
+Empat,Four,Empat kerusi kecil.,Four small chairs.
+Lima,Five,Lima meja besar.,Five big tables.
+Enam,Six,Enam buku lama.,Six old books.
+Tujuh,Seven,Tujuh murid sini.,Seven students here.
+Lapan,Eight,Lapan pensel merah.,Eight red pencils.
+Sembilan,Nine,Sembilan kerusi hijau.,Nine green chairs.
+Sepuluh,Ten,Sepuluh buku tebal.,Ten thick books.
+Buku,Book,Buku di meja.,Book on table.
+Pensel,Pencil,Pensel saya patah.,My pencil is broken.
+Pemadam,Eraser,Pemadam di beg.,Eraser in bag.
+Meja,Table,Meja di kelas.,Table in class.
+Kerusi,Chair,Kerusi itu besar.,That chair is big.
+Beg,Bag,Beg saya hitam.,My bag is black.
+Kelas,Class,Kelas sangat bersih.,Class is very clean.
+Duduk,Sit,Duduk di sini.,Sit here.
+Berdiri,Stand,Berdiri dengan betul.,Stand properly.
+Baca,Read,Baca buku ini.,Read this book.
+Tulis,Write,Tulis nama kamu.,Write your name.
+Nasi,Rice,Saya makan nasi.,I eat rice.
+Air,Water,Dia minum air.,He drinks water.
+Susu,Milk,Adik minum susu.,Younger sibling drinks milk.
+Roti,Bread,Ibu beli roti.,Mother buys bread.
+Epal,Apple,Kakak makan epal.,Older sister eats apple.
+Merah,Red,Beg merah baru.,New red bag.
+Biru,Blue,Baju biru cantik.,Beautiful blue shirt.
+Kuning,Yellow,Pensel kuning panjang.,Long yellow pencil.
+Hijau,Green,Kerusi hijau kecil.,Small green chair.
+Hitam,Black,Kasut hitam itu.,That black shoe.
+Putih,White,Kertas putih bersih.,Clean white paper.
+Cantik,Beautiful,Bunga itu cantik.,That flower is beautiful.
+Mengapa,Why,Mengapa kamu lambat?,Why are you late?
+Rumah,House,Rumah saya besar.,My house is big.
+Sekolah,School,Sekolah sangat jauh.,School is very far.
+Pagi,Morning,Pagi saya belajar.,In the morning I study.
+Petang,Afternoon,Petang saya rehat.,In the afternoon I rest.
+Malam,Night,Malam dia tidur.,At night he sleeps.
+Lambat,Late,Saya datang lambat.,I come late.
+Baru,New,Beg saya baru.,My bag is new.
+Lama,Old,Buku ini lama.,This book is old.
+Atas,On,Buku atas meja.,Book on table.
+Bawah,Under,Kucing bawah meja.,Cat under table.
+Dalam,Inside,Pensel dalam beg.,Pencil inside bag.
+Luar,Outside,Murid di luar.,Students outside.
+Dengan,With,Saya pergi dengan ibu.,I go with mother.
+Tanpa,Without,Datang tanpa beg.,Come without bag.
+Untuk,For,Buku ini untuk kamu.,This book is for you.
+Dari,From,Saya datang dari rumah.,I come from home.
+Ke,To,Pergi ke sekolah.,Go to school.
+Dan,And,Saya dan kamu.,Me and you.
+Atau,Or,Teh atau susu?,Tea or milk?
+Tolak,Reject,Tolak soalan ini.,Reject this question.
+Terima kasih cikgu,Thank you teacher,Terima kasih cikgu banyak.,Thank you very much teacher.
+Apa nama kamu,What is your name,Apa nama kamu?,What is your name?
+Nama,Name,Nama saya Ali.,My name is Ali.
+Umur,Age,Umur saya sepuluh.,My age is ten.
+Hobi,Hobby,Hobi saya membaca.,My hobby is reading.
+Sukan,Sport,Saya suka sukan.,I like sports.
+Bola,Ball,Adik main bola.,Younger sibling plays ball.
+Bola sepak,Football,Abang main bola sepak.,Older brother plays football.
+Bola keranjang,Basketball,Kami suka bola keranjang.,We like basketball.
+Badminton,Badminton,Saya main badminton.,I play badminton.
+Berenang,Swim,Dia pergi berenang.,He goes swimming.
+Berlari,Run,Murid berlari cepat.,Student runs fast.
+Melompat,Jump,Adik melompat tinggi.,Younger sibling jumps high.
+Menyanyi,Sing,Saya suka menyanyi.,I like singing.
+Menari,Dance,Kakak pandai menari.,Older sister dances well.
+Melukis,Draw,Dia melukis bunga.,She draws flowers.
+Membaca buku,Read books,Saya membaca buku.,I read books.
+Menonton televisyen,Watch television,Kami menonton televisyen.,We watch television.
+Komputer,Computer,Komputer di rumah.,Computer at home.
+Telefon,Phone,Telefon saya baru.,My phone is new.
+Internet,Internet,Internet sangat laju.,Internet is very fast.
+Permainan,Game,Permainan ini seronok.,This game is fun.
+Muzik,Music,Saya dengar muzik.,I listen to music.
+Lagu,Song,Lagu itu sedap.,That song is nice.
+Filem,Movie,Kami tonton filem.,We watch a movie.
+Gambar,Picture,Gambar itu cantik.,That picture is beautiful.
+Pakaian,Clothes,Pakaian ini bersih.,These clothes are clean.
+Baju,Shirt,Baju saya biru.,My shirt is blue.
+Seluar,Pants,Seluar itu panjang.,Those pants are long.
+Kasut,Shoes,Kasut hitam baru.,New black shoes.
+Topi,Hat,Topi merah kecil.,Small red hat.
+Jam,Watch / Clock,Jam di meja.,Clock on table.
+Cermin,Mirror,Cermin itu bersih.,That mirror is clean.
+Tangan,Hand,Tangan saya sakit.,My hand hurts.
+Kaki,Leg / Foot,Kaki adik kuat.,Younger sibling’s leg is strong.
+Mata,Eye,Mata saya besar.,My eyes are big.
+Hidung,Nose,Hidung dia kecil.,His nose is small.
+Mulut,Mouth,Mulut saya kecil.,My mouth is small.
+Telinga,Ear,Telinga dia besar.,His ear is big.
+Rambut,Hair,Rambut kakak panjang.,Sister’s hair is long.
+Kepala,Head,Kepala saya sakit.,My head hurts.
+Badan,Body,Badan ayah kuat.,Father’s body is strong.
+Pintu,Door,Pintu itu tertutup.,That door is closed.
+Tingkap,Window,Tingkap bilik besar.,The room window is big.
+Lantai,Floor,Lantai kelas bersih.,The classroom floor is clean.
+Dinding,Wall,Dinding rumah putih.,The house wall is white.
+Bilik,Room,Bilik saya kemas.,My room is tidy.
+Dapur,Kitchen,Ibu di dapur.,Mother is in the kitchen.
+Tandas,Toilet,Tandas sekolah bersih.,The school toilet is clean.
+Taman,Garden,Taman itu cantik.,That garden is beautiful.
+Pokok,Tree,Pokok tinggi itu.,That tree is tall.
+Bunga,Flower,Bunga merah segar.,Fresh red flower.
+Daun,Leaf,Daun hijau jatuh.,Green leaf falls.
+Haiwan,Animal,Haiwan itu besar.,That animal is big.
+Kucing,Cat,Kucing tidur lena.,The cat sleeps well.
+Anjing,Dog,Anjing itu jinak.,That dog is tame.
+Burung,Bird,Burung terbang tinggi.,Bird flies high.
+Ikan,Fish,Ikan dalam air.,Fish in water.
+Ayam,Chicken,Ayam makan nasi.,Chicken eats rice.
+Lembu,Cow,Lembu di ladang.,Cow on the farm.
+Cuaca,Weather,Cuaca hari panas.,The weather today is hot.
+Hujan,Rain,Hujan turun lebat.,Heavy rain falls.
+Matahari,Sun,Matahari sangat panas.,The sun is very hot.
+Awan,Cloud,Awan putih bergerak.,White clouds move.
+Angin,Wind,Angin sejuk bertiup.,Cool wind blows.
+Isnin,Monday,Isnin saya belajar.,On Monday I study.
+Selasa,Tuesday,Selasa ada kelas.,Tuesday has class.
+Rabu,Wednesday,Rabu saya rehat.,On Wednesday I rest.
+Khamis,Thursday,Khamis cuaca baik.,Thursday weather is good.
+Jumaat,Friday,Jumaat saya gembira.,Friday I am happy.
+Sabtu,Saturday,Sabtu pergi taman.,Saturday go to park.
+Ahad,Sunday,Ahad bersama keluarga.,Sunday with family.
+Pagi hari,Morning,Pagi hari cerah.,The morning is bright.
+Tengah hari,Noon,Tengah hari panas.,Noon is hot.
+Malam hari,Night,Malam hari sunyi.,The night is quiet.
 Apa maksudnya?,What does it mean?,Apa maksudnya?,What does it mean?
 Perlahan sikit,Slower please,Perlahan sikit.,"Slower, please."
 Cepat sikit,A bit faster,Cepat sikit.,"A bit faster, please."
